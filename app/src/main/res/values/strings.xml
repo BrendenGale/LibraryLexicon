@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Library Lexicon</string>
+    <string name="action_sign_out">Sign Out</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="addNewDeckString">Add New Deck</string>
+    <string name="deckNameCaptionString">Deck Name:</string>
+    <string name="formatCaptionString">Format:</string>
+    <string name="createDeckString">Create Deck</string>
+    <string name="deckNameCaption">Deck Name:</string>
+    <string name="editDeckString">Edit Deck</string>
+    <string name="saveChangesString">Save Changes</string>
+    <string name="deleteString">Delete</string>
+    <string name="deckListString">Deck List:</string>
+    <string name="addCardString">Add Card</string>
+    <string name="addCardToString">Add Card To: </string>
+    <string name="searchString">Search</string>
+    <string name="libraryLexiconString">Library Lexicon</string>
+
+    <string-array name="formats">
+        <item>Standard</item>
+        <item>Modern</item>
+        <item>Commander</item>
+    </string-array>
+
+</resources>

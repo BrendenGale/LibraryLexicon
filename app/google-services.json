@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499367679544",
+    "project_id": "librarylexicon-f59c6",
+    "storage_bucket": "librarylexicon-f59c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499367679544:android:fec5b2a14c066c34da38cd",
+        "android_client_info": {
+          "package_name": "edu.weber.cs.w1283820.librarylexicon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499367679544-djem4id0dl9khs6l1qmna3a2q1rud28t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_XKiXxiqmzlE0lHtg9hyk9fIMLskag20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499367679544-djem4id0dl9khs6l1qmna3a2q1rud28t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
